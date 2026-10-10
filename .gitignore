@@ -1,0 +1,12 @@
+# Configuración local de herramientas y editores: no forma parte del sitio
+.claude/
+.vscode/
+.idea/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Páginas de prueba locales
+_*.html
